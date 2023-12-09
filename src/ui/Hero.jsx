@@ -21,9 +21,13 @@ const Hero = () => {
           </p>
           <div className="mt-5 flex items-center gap-4">
             <div className=" w-[130px] rounded-sm bg-gradient-to-r from-indigo-500 via-purple-500  to-pink-500 p-[2px] text-center">
-              <Link className="inline-block w-full cursor-pointer rounded-sm bg-white py-[6px] text-Black  dark:bg-Black dark:text-white">
+              <a
+                href="./cv/Mariam_Tarek_CV.pdf"
+                download
+                className="inline-block w-full cursor-pointer rounded-sm bg-white py-[6px] text-Black  dark:bg-Black dark:text-white"
+              >
                 Download CV
-              </Link>
+              </a>
             </div>
             <div className=" w-[130px] rounded-sm bg-gradient-to-r from-indigo-500 via-purple-500  to-pink-500 px-2 py-[8px] text-center">
               <ScrollLink
