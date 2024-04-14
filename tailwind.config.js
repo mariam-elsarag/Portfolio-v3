@@ -6,7 +6,7 @@ export default {
     extend: {
       colors: {
         Black: "#060606",
-        headingColor: "#142B43",
+        headingColor: "#000",
         Gray: "#A7A7A7",
         Blue: "#13B0F5",
         Pink: "#E70FAA ",
