@@ -32,7 +32,7 @@ const Footer = () => {
           </Link>
           <ul className="flex  gap-4 text-headingColor dark:text-gray-400">
             <li>
-              <Link to="https://github.com/Mariamtarek514" target="_blank">
+              <Link to="https://github.com/mariam-elsarag" target="_blank">
                 <FaGithub
                   size={20}
                   className="transition-colors duration-200 hover:text-headingColor dark:text-gray-400 hover:dark:text-gray-300"
@@ -41,7 +41,7 @@ const Footer = () => {
             </li>
             <li>
               <Link
-                to="https://www.linkedin.com/in/mariamtarek514/"
+                to="https://www.linkedin.com/in/mariam-elsarag/"
                 target="_blank"
               >
                 <FaLinkedinIn

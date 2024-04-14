@@ -48,7 +48,7 @@ const Navbar = () => {
       </ul>
       <ul className="flex  gap-4 text-gray-500 dark:text-gray-400">
         <li>
-          <HrefLink to="https://github.com/Mariamtarek514" target="_blank">
+          <HrefLink to="https://github.com/mariam-elsarag" target="_blank">
             <FaGithub
               size={20}
               className="transition-colors duration-200 hover:text-headingColor dark:text-gray-400 hover:dark:text-gray-300"
@@ -57,7 +57,7 @@ const Navbar = () => {
         </li>
         <li>
           <HrefLink
-            to="https://www.linkedin.com/in/mariamtarek514/"
+            to="https://www.linkedin.com/in/mariam-elsarag/"
             target="_blank"
           >
             <FaLinkedinIn
