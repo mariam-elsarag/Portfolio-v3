@@ -90,8 +90,8 @@ const Projects = () => {
             previousLabel="< "
             renderOnZeroPageCount={null}
             containerClassName="flex items-center justify-center mt-8 gap-5  capitalize "
-            pageLinkClassName="border border-gray-400 w-[28px] h-[28px] flex items-center justify-center dark:text-gray-400 text-gray-600 rounded-full  "
-            activeLinkClassName="text-white dark:text-white bg-gradient-to-tr border-0 from-indigo-500 via-purple-500 to-pink-500 text-white border-headingColor "
+            pageLinkClassName=" w-[28px] h-[28px] flex items-center justify-center text-gray-400 text-gray-600 rounded-[5px] "
+            activeLinkClassName="!text-headingColor dark:!text-white border border-headingColor dark:border-white "
             nextLinkClassName="text-xl dark:text-gray-400 text-gray-600 focus:outline-none"
             previousLinkClassName="text-xl dark:text-gray-400 text-gray-600 focus:outline-none "
           />

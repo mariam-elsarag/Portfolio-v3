@@ -1,5 +1,3 @@
-import Logo from "../assets/logo.png";
-import LogoDark from "../assets/logo_dark.png";
 import { FaGithub, FaLinkedinIn } from "react-icons/fa";
 
 import { Link } from "react-router-dom";
@@ -12,12 +10,12 @@ const Footer = () => {
   return (
     <footer className="section_container font-navFont" id="contact">
       <div className="mb-5 mt-5 flex flex-col items-start justify-between sm:flex-row sm:items-center">
-        <div>
-          {theme === "dark" ? (
-            <img src={LogoDark} className="w-[30px] md:w-[50px]" alt="logo" />
-          ) : (
-            <img src={Logo} className="w-[30px] md:w-[50px] " alt="logo" />
-          )}
+        <div className="hidden sm:flex">
+          <h1
+            className={`text-gradient w-[150px] text-sm font-semibold uppercase tracking-[1px] md:w-[200px] md:tracking-[4px]`}
+          >
+            Mariam El-sarag
+          </h1>
         </div>
         <div className="mt-3 flex flex-col items-start gap-3 text-headingColor  dark:text-gray-400  sm:flex-row sm:items-center">
           <Link

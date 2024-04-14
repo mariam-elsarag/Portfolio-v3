@@ -5,12 +5,15 @@ export default {
   theme: {
     extend: {
       colors: {
-        Black: "#191919",
-        headingColor: "#42446E",
+        Black: "#060606",
+        headingColor: "#142B43",
         Gray: "#A7A7A7",
         Blue: "#13B0F5",
         Pink: "#E70FAA ",
-        lightBlack: "#363636",
+        lightBlack: "#222228",
+        white: "#fafbf9",
+        darkBlue: "#142B43",
+        lightGold: "#DEC2BA",
       },
       boxShadow: {
         lightModeShadow: "0 0 10px rgba(0,0,0,0.1)",

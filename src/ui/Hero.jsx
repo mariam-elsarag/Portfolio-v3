@@ -20,29 +20,30 @@ const Hero = () => {
             with modern web technologies
           </p>
           <div className="mt-5 flex items-center gap-4">
-            <div className=" w-[130px] rounded-sm bg-gradient-to-r from-indigo-500 via-purple-500  to-pink-500 p-[2px] text-center">
+            <div className=" w-[130px] rounded-sm bg-gradient-to-r  from-[#FF9898] to-[#8054FF] px-2 py-[8px] text-center">
               <a
                 href="./cv/Mariam_Tarek_CV.pdf"
                 download
-                className="inline-block w-full cursor-pointer rounded-sm bg-white py-[6px] text-Black  dark:bg-Black dark:text-white"
+                className="cursor-pointer text-white"
               >
                 Download CV
               </a>
             </div>
-            <div className=" w-[130px] rounded-sm bg-gradient-to-r from-indigo-500 via-purple-500  to-pink-500 px-2 py-[8px] text-center">
+            <div className=" w-[130px] rounded-sm bg-gradient-to-r  from-[#FF9898] to-[#8054FF] p-[2px] text-center">
               <ScrollLink
                 to="contact"
                 smooth={true}
                 duration={1000}
-                className="cursor-pointer text-white"
+                className="inline-block w-full cursor-pointer rounded-sm bg-white py-[6px] text-Black  dark:bg-Black dark:text-white"
               >
+                {" "}
                 Let's talk
               </ScrollLink>
             </div>
           </div>
         </div>
         <div className="order-1 flex w-full justify-center  sm:order-2 sm:w-1/2 md:justify-end">
-          <div className=" w-[180px] rounded-full bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500  p-1 md:w-[220px]">
+          <div className=" w-[180px] rounded-full bg-gradient-to-r from-[#FF9898] to-[#8054FF]  p-1 md:w-[220px]">
             <figure className="rounded-full dark:bg-Black">
               <img
                 src={HeroLight}

@@ -5,7 +5,7 @@ export const projectsData = [
     description:
       "This project utilizes the Movie Database (TMDb) API to display a variety of movies. Users have the ability to add movies to their favorites, and these selections are stored in their profiles, which are retrieved from Firestore.",
     demoLink: "https://reacty-netflixy-12.web.app/",
-    sourceLink: "https://github.com/Mariamtarek514/netflix",
+    sourceLink: "https://github.com/mariam-elsarag/netflix",
     technology: "React,Tailwind,firebase",
     category: "react",
     image: "./projects/netflix.jpg",
@@ -16,7 +16,7 @@ export const projectsData = [
     description:
       "Coral is a straightforward e-commerce platform where users can conveniently filter products by price or alphabetical order. It features user-friendly categories for easy navigation and is fully responsive",
     demoLink: "https://e-commerce-coral.netlify.app/",
-    sourceLink: "https://github.com/Mariamtarek514/coral",
+    sourceLink: "https://github.com/mariam-elsarag/coral",
     technology: "React tailwind",
     category: "react",
     image: "./projects/coral.jpg",
@@ -26,8 +26,8 @@ export const projectsData = [
     name: "BookHub",
     description:
       "BookHub is a user-friendly book website where users can search for their favorite books and access detailed information about each book from the Open Library.",
-    demoLink: "https://mariamtarek514.github.io/Book_Store/",
-    sourceLink: "https://github.com/Mariamtarek514/Book_Store",
+    demoLink: "https://mariam-elsarag.github.io/Book_Store/",
+    sourceLink: "https://github.com/mariam-elsarag/Book_Store",
     technology: "React, Bootstrap",
     category: "react",
     image: "./projects/bookhub.jpg",
@@ -38,7 +38,7 @@ export const projectsData = [
     description:
       "The second version of my portfolio incorporates React.js for the first time. I utilized Flexbox for responsiveness.",
     demoLink: "https://maraiamtarekportfolio.netlify.app/",
-    sourceLink: "https://github.com/Mariamtarek514/myProfile",
+    sourceLink: "https://github.com/mariam-elsarag/myProfile",
     technology: "React,CSS",
     category: "react",
     image: "./projects/profile_v2.jpg",
@@ -49,7 +49,7 @@ export const projectsData = [
     description:
       "Spillter is a web application where users input the cost of a bill, select a percentage for tips, and specify the number of people sharing the cost. The website then calculates the tip amount and the total amount per person.",
     demoLink: "https://calculat-tips.netlify.app/",
-    sourceLink: "https://github.com/Mariamtarek514/tip-calculator",
+    sourceLink: "https://github.com/mariam-elsarag/tip-calculator",
     technology: "React,CSS",
     category: "frontend mentor",
     image: "./projects/splitter.jpg",
@@ -61,7 +61,7 @@ export const projectsData = [
       "Sneakers is a product page on a website that showcases various products. When you click on a specific sneaker, you can view different pictures of the product along with detailed information",
     demoLink: "https://ecommerce-sneakes.netlify.app/",
     sourceLink:
-      "https://github.com/Mariamtarek514/E-commerce-product?tab=readme-ov-file",
+      "https://github.com/mariam-elsarag/E-commerce-product?tab=readme-ov-file",
     technology: "React,CSS",
     category: "frontend mentor",
     image: "./projects/sneakers.jpg",
@@ -71,8 +71,8 @@ export const projectsData = [
     name: "Delizus",
     description:
       "Delizus is a restaurant website that features the restaurant's menu, upcoming events, and detailed information about the establishment",
-    demoLink: "https://mariamtarek514.github.io/Delizus/",
-    sourceLink: "https://github.com/Mariamtarek514/Delizus",
+    demoLink: "https://mariam-elsarag.github.io/Delizus/",
+    sourceLink: "https://github.com/mariam-elsarag/Delizus",
     technology: "HTML,CSS,JS",
     category: "js",
     image: "./projects/delizus.jpg",
@@ -83,7 +83,7 @@ export const projectsData = [
     description:
       " I built a calculator using HTML, CSS, and React. With React's powerful components, I was able to create a user-friendly interface with interactive functionality.",
     demoLink: "https://calculator-app-mariam.netlify.app/",
-    sourceLink: "https://github.com/Mariamtarek514/calculator-react",
+    sourceLink: "https://github.com/mariam-elsarag/calculator-react",
     technology: "React,CSS",
     category: "frontend mentor",
     image: "./projects/calculator.jpg",
@@ -93,8 +93,8 @@ export const projectsData = [
     name: "To-do List",
     description:
       "A to-do list application that saves tasks in local storage, ensuring they are always accessible. The app also offers both dark and light modes for user customization.",
-    demoLink: "https://mariamtarek514.github.io/todo-list/",
-    sourceLink: "https://github.com/Mariamtarek514/todo-list",
+    demoLink: "https://mariam-elsarag.github.io/todo-list/",
+    sourceLink: "https://github.com/mariam-elsarag/todo-list",
     technology: "HTML,CSS,JS",
     category: "frontend mentor",
     image: "./projects/todolist.jpg",
@@ -105,9 +105,9 @@ export const projectsData = [
     description:
       "Space is a simple landing page featuring a filter to view plants along with their details. The page is fully responsive.",
     demoLink:
-      "https://mariamtarek514.github.io/Frontend-Mentor-Space-tourism-website/",
+      "https://mariam-elsarag.github.io/Frontend-Mentor-Space-tourism-website/",
     sourceLink:
-      "https://github.com/Mariamtarek514/Frontend-Mentor-Space-tourism-website",
+      "https://github.com/mariam-elsarag/Frontend-Mentor-Space-tourism-website",
     technology: "HTML,CSS,JS",
     category: "frontend mentor",
     image: "./projects/space.jpg",
@@ -117,8 +117,8 @@ export const projectsData = [
     name: "Trip Boss",
     description:
       "TripBoss is a fully responsive website built using a grid layout. Users can explore tourist places and enjoy a simple gallery implemented with JavaScript.",
-    demoLink: "https://mariamtarek514.github.io/TripBoss/",
-    sourceLink: "https://github.com/Mariamtarek514/TripBoss",
+    demoLink: "https://mariam-elsarag.github.io/TripBoss/",
+    sourceLink: "https://github.com/mariam-elsarag/TripBoss",
     technology: "HTML,CSS,JS",
     category: "js",
     image: "./projects/tripboss.jpg",
@@ -128,8 +128,8 @@ export const projectsData = [
     name: "portfolio v1",
     description:
       "Version 1 of my portfolio I implemented local storage for theme persistence and utilized Flexbox for a fully responsive design.",
-    demoLink: "https://mariamtarek514.github.io/profile/",
-    sourceLink: "https://github.com/Mariamtarek514/profile",
+    demoLink: "https://mariam-elsarag.github.io/profile/",
+    sourceLink: "https://github.com/mariam-elsarag/profile",
     technology: "HTML,CSS,JS",
     category: "js",
     image: "./projects/profile_v1.jpg",
@@ -139,8 +139,8 @@ export const projectsData = [
     name: "E-commerce",
     description:
       "A standard e-commerce platform where users can view all products from a dummy JSON API. To add products to the cart, users need to sign in, and their sign-in status is saved in local storage. The cart items are also stored in local storage. Users can explore product details, and within the product details section, they can discover similar products",
-    demoLink: "https://mariamtarek514.github.io/Ecommerce/",
-    sourceLink: "https://github.com/Mariamtarek514/Ecommerce",
+    demoLink: "https://mariam-elsarag.github.io/Ecommerce/",
+    sourceLink: "https://github.com/mariam-elsarag/Ecommerce",
     technology: "HTML,CSS,JS",
     category: "js",
     image: "./projects/ecommerce.jpg",
@@ -150,8 +150,8 @@ export const projectsData = [
     name: "Bithu",
     description:
       " I was part of a team that developed a gaming website using HTML, CSS, and JavaScript. We also incorporated the Owl Cursor library to enhance the website's user experience.",
-    demoLink: "https://mariamtarek514.github.io/Bithu/",
-    sourceLink: "https://github.com/Mariamtarek514/Bithu",
+    demoLink: "https://mariam-elsarag.github.io/Bithu/",
+    sourceLink: "https://github.com/mariam-elsarag/Bithu",
     technology: "HTML,CSS,JS",
     category: "js",
     image: "./projects/bithu.jpg",
@@ -163,8 +163,8 @@ export const projectsData = [
     description:
       "I developed a delivery website using HTML, CSS,JavaScript, and Sass. Sass's powerful features allowed me to efficiently write and organize the website's styles, resulting in a visually appealing and easy-to-use website.",
 
-    demoLink: "https://mariamtarek514.github.io/Delivery/",
-    sourceLink: "https://mariamtarek514.github.io/Delivery",
+    demoLink: "https://mariam-elsarag.github.io/Delivery/",
+    sourceLink: "https://mariam-elsarag.github.io/Delivery",
     technology: "HTML,SASS,JS",
     category: "js",
     image: "./projects/delivery.jpg",
@@ -174,8 +174,9 @@ export const projectsData = [
     name: "Interactive rating component",
     description:
       "An interactive rating component where users can rate items. Upon submission, a success message will be displayed",
-    demoLink: "https://mariamtarek514.github.io/Interactive-rating-component/",
-    sourceLink: "https://mariamtarek514.github.io/Interactive-rating-component",
+    demoLink: "https://mariam-elsarag.github.io/Interactive-rating-component/",
+    sourceLink:
+      "https://github.com/mariam-elsarag/Interactive-rating-component",
     technology: "HTML,CSS,JS",
     category: "frontend mentor",
     image: "./projects/rating.jpg",

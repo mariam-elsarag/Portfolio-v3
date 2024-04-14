@@ -1,7 +1,6 @@
 import { Link } from "react-scroll";
 import { Link as HrefLink } from "react-router-dom";
-import Logo from "../assets/logo.png";
-import LogoDark from "../assets/logo_dark.png";
+
 import {
   FaBars,
   FaGithub,
@@ -19,11 +18,11 @@ const Navbar = () => {
   return (
     <nav className="section_container flex items-center justify-between  py-6">
       <div>
-        {theme === "dark" ? (
-          <img src={LogoDark} className="w-[35px] md:w-[50px]" alt="logo" />
-        ) : (
-          <img src={Logo} className="w-[35px] md:w-[50px] " alt="logo" />
-        )}
+        <h1
+          className={`text-gradient w-[150px] text-sm font-semibold uppercase tracking-[1px] md:w-[200px] md:tracking-[4px]`}
+        >
+          Mariam El-sarag
+        </h1>
       </div>
 
       <ul
